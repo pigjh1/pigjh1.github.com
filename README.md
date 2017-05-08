@@ -1,2 +1,6 @@
 # pigjh1.github.com
-Pigjh1's Website
+
+`jekyll server`실행
+http://localhost:4000/
+
+Voyager jekyll theme: <http://redvi.github.io/voyager>
