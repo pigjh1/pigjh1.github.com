@@ -17,7 +17,7 @@ tags: ['css', 'grid', 'guide', 'dev']
 - Offset: The space between the sides of the viewport.
 - Baseline: The vertical rhythm used for text.
 
-!(https://cdn.css-tricks.com/wp-content/uploads/2017/03/s_7887F2C7EE34D61FF16137826B5D88AC920BD1E146FAAC42AB4B6AB5B2DEAC6D_1488871641697_Terminology2x.png)
+![](https://cdn.css-tricks.com/wp-content/uploads/2017/03/s_7887F2C7EE34D61FF16137826B5D88AC920BD1E146FAAC42AB4B6AB5B2DEAC6D_1488871641697_Terminology2x.png)
 (출처 : css-tricks)
 
 ### 3. 소스 보기
@@ -25,5 +25,5 @@ tags: ['css', 'grid', 'guide', 'dev']
 2. css-grid-overlay-2 (CSS variables): https://codepen.io/Diana-iropke/pen/EmgMqZ/
 
 ### Reference
-https://css-tricks.com/building-css-grid-overlay/
-http://learncssgrid.com/
+- https://css-tricks.com/building-css-grid-overlay/
+- http://learncssgrid.com/
