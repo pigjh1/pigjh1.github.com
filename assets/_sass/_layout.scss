@@ -88,7 +88,6 @@ a {
 * ========================================================================== */
 .nav-main {
   height: 50px;
-  text-transform: uppercase;
   font-weight: bold;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -102,7 +101,6 @@ a {
   font-weight: 400;
   font-family: "Roboto Condensed", sans-serif;
   padding: 0 1rem;
-  text-transform: uppercase;
   a {
     -webkit-order: 1;
     -ms-flex-order: 1;
