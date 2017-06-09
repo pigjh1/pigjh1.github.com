@@ -7,14 +7,14 @@ categories: posts
 tags: ['html', 'w3c', 'spec']
 ---
 
-### <menu>, <menuitem>
-마우스 우클릭시 보여줄 메뉴를 추가할수 있습니다.  
+### menu, menuitem 요소
+마우스 우클릭시 보여줄 메뉴를 추가할수 있습니다.  
 현재 파이어폭스에서 가능하고 크롬에서는 동작하지 않습니다.  
 
 - [caniuse](http://caniuse.com/#feat=menu)
 - [HTML 5.1 menu example](https://codepen.io/SitePoint/pen/bBrvRP)
 
-### <details>, <summary>
+### details, summary 요소
 자바스크립트 없이 아코디언 형태로 보여줄수 있습니다.
 
 - [HTML 5.1 details and summary demo](https://codepen.io/SitePoint/pen/rWzgzg)
