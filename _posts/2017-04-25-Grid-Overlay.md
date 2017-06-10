@@ -21,8 +21,8 @@ tags: ['css', 'grid', 'guide', 'dev']
 (출처 : css-tricks)
 
 ### 3. 소스 보기
-1. css-grid-overlay-1 (SASS): https://codepen.io/Diana-iropke/pen/vmXPqR/
-2. css-grid-overlay-2 (CSS variables): https://codepen.io/Diana-iropke/pen/EmgMqZ/
+1. [css-grid-overlay-1 (SASS)](https://codepen.io/Diana-iropke/pen/vmXPqR/)
+2. [css-grid-overlay-2 (CSS variables)](https://codepen.io/Diana-iropke/pen/EmgMqZ/)
 
 ### Reference
 - https://css-tricks.com/building-css-grid-overlay/

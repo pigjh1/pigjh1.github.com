@@ -49,7 +49,7 @@ tags: ['scrolling']
 
 5. 섹션 이동하기 옵션을 제공해라
 
-6. 새로운 내용을로드 할 때  시각적 피드백을 제공
+6. 새로운 내용을로드 할 때 시각적 피드백을 제공
 
 7. Don’t Hijack Scrolling
 하이재킹 스크롤링을하는 웹 사이트는 스크롤링을 제어하고 웹 브라우저의 기본 기능을 무시합니다. 
@@ -71,6 +71,6 @@ tags: ['scrolling']
 - 접근성 있는 링크 만들기
 
 #### Parallax Scrolling Page
-- 사용자가 명확한 작업 (예. 제품구매)를 할때는 사용하지 마라
+- 사용자가 명확한 작업 (예. 제품구매)를 할때는 사용하지 마라.
 - 성능 고려 (translate3d, scale, rotation, opacity)
 - 접근성 고려 [toggle switch](https://codepen.io/nattarnoff/pen/JoMxpK)
