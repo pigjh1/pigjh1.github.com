@@ -26,4 +26,3 @@ tags: ['css', 'grid', 'guide', 'dev']
 
 ### Reference
 - https://css-tricks.com/building-css-grid-overlay/
-- http://learncssgrid.com/
