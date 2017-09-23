@@ -4,7 +4,7 @@ layout: post
 title: "html5.1 달라진점"
 date: 2017-06-09 10:56:00
 categories: posts
-tags: ['html', 'w3c', 'spec']
+tags: ['html', 'W3C', 'spec']
 ---
 
 ### menu, menuitem 요소

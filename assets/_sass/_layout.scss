@@ -202,6 +202,12 @@ main {
     width: 100px;
     left: 50%;
   }
+  h2 {
+    font-size: 1.6em;
+  }
+  h3 {
+    font-size: 1.2em;
+  }
 }
 
 article {
@@ -234,12 +240,17 @@ article {
     background-color: #fff;
   }
 }
-
+.post-title {
+  text-align: center;
+}
 .post-meta {
-  padding-bottom: .5em;
+  text-align: center;
+  padding-bottom: 2em;
+  margin-bottom: 2em;
+  border-bottom: 1px solid #ddd;
   text-transform: uppercase;
   color: #b9b9b9;
-  font-size: 70%;
+  font-size: 90%;
   font-weight: bold;
   font-family: 'Roboto Condensed', sans-serif;
   a, a:hover, a:focus, a:visited {
@@ -321,7 +332,7 @@ article {
     color: #333;
     margin: 10px 0;
   }
-  
+
   &__title {
     font-size: 1em;
     font-weight: bold;
