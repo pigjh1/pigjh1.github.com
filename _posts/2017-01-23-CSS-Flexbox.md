@@ -75,11 +75,11 @@ if (Modernizr.flexboxlegacy) {
 - [flexibility](https://github.com/jonathantneal/flexibility) : Flexible Box 사용가능하게 해주는 스트립트
 
 ### Playground
-- Flexbox playground : http://codepen.io/enxaneta/pen/adLPwv
-- flexboxfroggy : http://flexboxfroggy.com/
-- flexyboxes : http://the-echoplex.net/flexyboxes/
-- https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/
-- http://bennettfeely.com/flexplorer/
+- [Flexbox playground](http://codepen.io/enxaneta/pen/adLPwv)
+- [flexboxfroggy](http://flexboxfroggy.com/)
+- [flexyboxes](http://the-echoplex.net/flexyboxes/)
+- [https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/](https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/)
+- [http://bennettfeely.com/flexplorer/](http://bennettfeely.com/flexplorer/)
 
 ### Reference
 - http://www.w3.org/TR/css-flexbox-1/
@@ -93,7 +93,7 @@ if (Modernizr.flexboxlegacy) {
 - [CSS Flexbox Examples](https://umaar.github.io/css-flexbox-demo/)
 - [CSS 레이아웃을 배웁시다 - flexbox](http://ko.learnlayout.com/flexbox.html)
 - [CSS Flex 속성](http://webdir.tistory.com/349)
-- [다룸 flexbox http://daumui.tistory.com/44)
+- [다룸 flexbox](http://daumui.tistory.com/44)
 - [IE10의 플렉스박스 레이아웃](https://msdn.microsoft.com/library/hh673531[v=vs.85).aspx)
 - [CSS Flexbox Layout105-minute CSS Course](https://teamtreehouse.com/library/css-flexbox-layout)
 - [align-item과 justify-content 속성](http://astrap.tistory.com/54)
