@@ -84,21 +84,23 @@ if (Modernizr.flexboxlegacy) {
 ### Reference
 - http://www.w3.org/TR/css-flexbox-1/
 - Understanding Flexbox: Everything you need to know 👍
-	- medium : https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.jxrbw619x
-	- github : https://github.com/ohansemmanuel/Understanding-Flexbox
-	- PDF : https://ohansemmanuel.github.io/uf_download.html
-- A Complete Guide to Flexbox 👍 : https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-- A Visual Guide to CSS3 Flexbox Propertiesproperties : https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties
-- CSS Reference Flexbox : https://tympanus.net/codrops/css_reference/flexbox/
-- CSS Flexbox Examples : https://umaar.github.io/css-flexbox-demo/
-- CSS 레이아웃을 배웁시다 - flexbox : http://ko.learnlayout.com/flexbox.html
-- CSS Flex 속성 : http://webdir.tistory.com/349
-- 다룸 flexbox http://daumui.tistory.com/44
-- IE10의 플렉스박스 레이아웃 : https://msdn.microsoft.com/library/hh673531(v=vs.85).aspx
-- CSS Flexbox Layout105-minute CSS Course : https://teamtreehouse.com/library/css-flexbox-layout
-- align-item과 justify-content 속성 : http://astrap.tistory.com/54
-- Solved by Flexbox 👍 : https://hyunseob.github.io/solved-by-flexbox-kr/
-- Advanced Cross-Browser Flexbox : https://dev.opera.com/articles/advanced-cross-browser-flexbox/
-- Using Modernizr with Flexbox : http://zomigi.com/blog/using-modernizr-with-flexbox/
-- sass-flex-mixin : https://github.com/mastastealth/sass-flex-mixin
-- Flexbox SASS mixin w/ Browser List : https://codepen.io/jreid/pen/jCrBv
+    (medium)[https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.jxrbw619x]
+    (github)[https://github.com/ohansemmanuel/Understanding-Flexbox]
+    (PDF)[https://ohansemmanuel.github.io/uf_download.html]
+- (A Complete Guide to Flexbox 👍)[https://css-tricks.com/snippets/css/a-guide-to-flexbox/]
+- (A Visual Guide to CSS3 Flexbox Propertiesproperties)[https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties]
+- (CSS Reference Flexbox)[https://tympanus.net/codrops/css_reference/flexbox/]
+- (CSS Flexbox Examples)[https://umaar.github.io/css-flexbox-demo/]
+- (CSS 레이아웃을 배웁시다 - flexbox)[http://ko.learnlayout.com/flexbox.html]
+- (CSS Flex 속성)[http://webdir.tistory.com/349]
+- (다룸 flexbox http://daumui.tistory.com/44]
+- (IE10의 플렉스박스 레이아웃)[https://msdn.microsoft.com/library/hh673531(v=vs.85).aspx]
+- (CSS Flexbox Layout105-minute CSS Course)[https://teamtreehouse.com/library/css-flexbox-layout]
+- (align-item과 justify-content 속성)[http://astrap.tistory.com/54]
+- (Solved by Flexbox 👍)[https://hyunseob.github.io/solved-by-flexbox-kr/]
+- (Advanced Cross-Browser Flexbox)[https://dev.opera.com/articles/advanced-cross-browser-flexbox/]
+- (Using Modernizr with Flexbox)[http://zomigi.com/blog/using-modernizr-with-flexbox/]
+- (sass-flex-mixin)[https://github.com/mastastealth/sass-flex-mixin]
+- (Flexbox SASS mixin w/ Browser List)[https://codepen.io/jreid/pen/jCrBv]
+- (The Ultimate Guide to Flexbox — Learning Through Examples :https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676]
+
