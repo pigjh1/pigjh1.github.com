@@ -117,7 +117,7 @@ SVG에 대체텍스트는 `<title>`과 `<desc>` 태그를 사용한다.
 
 #### 7. roles를 사용
 역할 속성은 기본값을 변경하려는 경우에만 사용
-덧. WAI-ARIA를 사용하라 국내에도 [사례집]( http://www.wah.or.kr/board/boardView.asp?page=1&brd_sn=5&brd_idx=1019)과 [에제](https://github.com/niawa/ARIA)가 공개 되었으니 참고
+덧. WAI-ARIA를 사용하라 국내에도 [사례집]( http://www.wah.or.kr/board/boardView.asp?page=1&brd_sn=5&brd_idx=1019)과 [예제](https://github.com/niawa/ARIA)가 공개 되었으니 참고
 
 #### 8. 숨김 텍스트
 숨김 텍스트를 위한 스타일
