@@ -115,11 +115,11 @@ SVG에 대체텍스트는 `<title>`과 `<desc>` 태그를 사용한다.
 ##### Button vs. <a> tag
 `<a>` 태그는 링크를 연결하기 위한 것입니다. 메뉴 열고 닫기나 이미지 갤러러 같은 경우에는 `<button>`
 
-##### 7. roles를 사용
+#### 7. roles를 사용
 역할 속성은 기본값을 변경하려는 경우에만 사용
 덧. WAI-ARIA를 사용하라 국내에도 [사례집]( http://www.wah.or.kr/board/boardView.asp?page=1&brd_sn=5&brd_idx=1019)과 [에제](https://github.com/niawa/ARIA)가 공개 되었으니 참고
 
-##### 8. 숨김 텍스트
+#### 8. 숨김 텍스트
 숨김 텍스트를 위한 스타일
 ```css
 .visually-hidden {
@@ -137,7 +137,7 @@ body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .vi
 
 #### 9. W3C 표준 과 WCAG 가이드 라인을 지킴
 
-##### 10. 검사도구 이용하여 테스트
+#### 10. 검사도구 이용하여 테스트
 이 지식을 모두 적용했으면 테스트 할 시간입니다. 다음은 웹 사이트 접근성을 감사 할 수있는 최상의 도구 목록입니다.  
 위에서 소개한 국내에 맞는 도구를 사용
 
