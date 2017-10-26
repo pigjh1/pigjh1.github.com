@@ -103,4 +103,4 @@ if (Modernizr.flexboxlegacy) {
 - [sass-flex-mixin](https://github.com/mastastealth/sass-flex-mixin)
 - [Flexbox SASS mixin w/ Browser List](https://codepen.io/jreid/pen/jCrBv)
 - [The Ultimate Guide to Flexbox — Learning Through Examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
-
+- [A Simple Cheatsheet for Flexbox](https://codeburst.io/a-simple-cheatsheet-for-flexbox-f5d3e1658447)

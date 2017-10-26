@@ -1,7 +1,7 @@
 ---
 bg: "tools.jpg"
 layout: post
-title: "CSS 그리드 오버레이 만들기"
+title: "CSS 그리드로 오버레이 만들기"
 date: 2017-04-25 12:00:00
 categories: posts
 tags: ['css', 'grid', 'guide', 'dev']

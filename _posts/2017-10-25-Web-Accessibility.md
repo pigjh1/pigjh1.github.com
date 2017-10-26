@@ -1,7 +1,7 @@
 ---
 bg: "tools.jpg"
 layout: post
-title: "접근성 관련 최신 정리"
+title: "접근성 관련 정리"
 date: 2017-10-25 19:03:00
 categories: posts
 tags: ['html', 'accessibility']
@@ -34,7 +34,7 @@ tags: ['html', 'accessibility']
     - [안드로이드의 TalkBack(토크백)](https://support.google.com/accessibility/android/answer/6283677?hl=ko)
     - [IOS의 VoiceOver](https://help.apple.com/voiceover/info/guide/10.12/?lang=ko)
 
-### 웹 접근성 향상을 위한 10 가지 지침
+### 웹 접근성 향상을 위한 10가지 지침
 [aerolab](https://aerolab.co/blog/web-accessibility/)에 소개된 내용입니다.
 
 #### 1. 색상에 의존하지 마십시오
