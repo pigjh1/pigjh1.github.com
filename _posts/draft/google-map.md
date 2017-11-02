@@ -1,78 +1,115 @@
-# 웹페지에서 구글 맵 사용하기
-
-## 구글 지도를 표현하는 방법
-1. 스크립트
-
-2. 아이프레임으로
-
-## 커스텀 마커 적용하기
-
-## 커스텀 스타일 적용하기
-
-## 웹접근성과 구글맵
-
-## 그외 지도 서비스 API
-네이버 지도 : https://navermaps.github.io/maps.js/docs/index.html
-다음 지도 : http://apis.map.daum.net/
-
+---
+bg: "tools.jpg"
+layout: post
+title: "웹페지에서 구글 맵 사용하기"
+date: 2017-10-31 14:20:00
+categories: posts
+tags: ['javascript', 'google']
 ---
 
-https://navermaps.github.io/maps.js/docs/tutorial-5-map-moves.example.html
-https://developers.google.com/maps/documentation/javascript/reference
-여기서 panBy
-지도api가 좌표가 센터에 오는게 기본이라서 '-' 여태 지도 위에 레이어 올린거 어떻게 이쁘게 맞추나 했는데
+@@@@@@@@@@@@@@@@@@@ 확인할 내용
 
-ap랑 리리코스
+### 구글 지도를 표현하는 방법
+#### 1. iframe 사용
+구글지도에서 위치 검색 > 공유하기 > 지도퍼가기 를 하면 iframe소스를 확인할 수 있습니다.
+접근성을 위해 기본 제공 소스에 title 속성에 값을 넣어줍니다. (iframe 자체가 접근성에 좋지는 않지만)
+```
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3162.673501606904!2d126.98074241564801!3d37.562755482101664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca2f0f1f1583d%3A0xd1f6a6e94f8697d8!2zTGluZSBGcmllbmRzIO2UjOuemOq3uOyLrSDsiqTthqDslrQg66qF64-Z7Jet7KCQ!5e0!3m2!1sko!2s!4v1509344885928" width="600" height="450" frameborder="0" style="border:0" allowfullscreen title="라인스어 명동 지도"></iframe>
+```
 
-map.panBy(100, 100);
+#### 2. JavaScript API를 사용
+아래 케이스 별로 자세히 살펴봅시다.
 
----
+### 케이스별
+#### 마커 적용하기
+기본적인 마커와 사용자 지정 이미지를 적용하는 방법을 가이드를 참고
+https://developers.google.com/maps/documentation/javascript/markers?hl=ko
 
-Our Company > Global Network > Overview
+
+@@@@@@@@@@@@@@@@@@@
+이야기 하고 싶은건은 여러개의 마커를 적용하고 컨트롤 하는것
 http://www.muji.com/storelocator/
+멀티플 마크 찍는 방법 테스트. 효과 구현에 따라 스크립트 추가
+지도 클릭하면 핀이 바뀌는 거 확인 필요
 
-참고 자료
-구글맵 infowindow http://en.marnoto.com/2014/09/5-formas-de-personalizar-infowindow.html
-http://www.sulwhasoo.com/int/en/misc/store.html
-http://www.sulwhasoo.com/int/en/flagship/journey.html
+http://en.marnoto.com/2013/12/mapa-com-varios-marcadores-google-maps.html
+
+#### 커스텀 스타일 적용하기
+구글 지도 스타일을 적용할 수 있는데 한국은 해당하지 않습니다.
+
+> 한국은 국내법상 지도 데이터를 해외 데이터 센터로 반출할 수 없는 제약이 있어서 구글 지도에서 제공하는 일부 기능이 동작하지 않는데, 여기에 지도 이미지를 동적으로 변경하는 기능도 포함됩니다. 한국 지도는 국내 서버를 통해 제한적인 스타일의 지도만 서비스하고 있고, 그 외 API 등을 통한 지도 이미지의 변경은 현재로서는 어렵습니다.
+
+- [Maps JavaScript API > 구글 지도 스타일 지정 시작](https://developers.google.com/maps/documentation/javascript/styling?hl=ko)
+- [Google 지도 사용자 게시판 문의](https://productforums.google.com/forum/#!topic/maps-ko/AI_0FslsAs4)
+- [Google MAP Style 적용하기](https://medium.com/guleum/google-map-style-적용하기-3042efc85c7e)
+
+css filter기능을 사용하여 스타일 적용을 할 수도 있습니다.
+
+#### 스크롤 및 패닝 동작
+이미지만 보여주고 싶다 할때는 옵션을 끄기
 
 구글 맵 스크롤 비활성화하기
 http://www.thewordcracker.com/miscellaneous/how-to-disable-google-map-scrol/
+https://developers.google.com/maps/documentation/javascript/interaction?hl=ko
 
-메모
-멀티플 마크 찍는 방법 테스트. 효과 구현에 따라 스크립트 추가
-지도 클릭하면 핀이 바뀌는 거 확인 필요
-흑백처리 하면서 핀도 검정으로
-막는 옵션 설화수 플래그쉽에서 사용한건 IE9에서 작동하지 않음 api에서 옵션 찾아 적용
 
----
 
-1. 지도api를 이용한 지도 서비스도 당연히 접근성이 준수되어야 합니다. 접근성이 준수된 웹 페이지를 이용하는사람이 지도는 필요없을리 없으니까요. 다만 지도의 특성상 많은 내용을 담고 있기 때문에, 대체 텍스트 부분은 제대로 지정되지 않고 지도콘텐츠 영역 밖에서 설명하는 방법을 권장하고 있습니다. 약도를 설명하는등의 방법을 말합니다.
-대체텍스트를 제외한 모든 항목은 지켜져야합니다.
+기본 옵션이 있으니 그걸 적용
 
-2. 앞서 말한것처럼 대체텍스트를 제공하지 못하더래도 지도가 표현하고자 하는 콘텐츠를 대체 콘텐츠로 제공
 
-3. 구글맵같은 GIS의 경우는 평가 대상에서 제외가 됩니다. 만약 다이나믹한 맵이 아닌, 단순히 약도등을 제공하기 위해 사용되는 경우라면 약도에 대응하는 정보를 하단에 제공해주셔야 합니다.
+#### 지도의 좌표 이동하기
+@@@@@@@@@@@@@@@@@@@
+https://developers.google.com/maps/documentation/javascript/reference
 
----
+panBy 검색
+여기서 panBy
+지도api가 좌표가 센터에 오는게 기본이라서 '-' 여태 지도 위에 레이어 올린거 어떻게 이쁘게 맞추나 했는데
 
-구글 맵(google map) 등 외부 오픈 API 사용시 대체텍스트 관련
+map.panBy(100, 100);
 
-김근우 님 담변
 
-구글맵과 같은 외부 API를 사용한 콘텐츠의 경우에도 심사는 동일하게 수행됩니다. 이 경우 다음 두가지 측면을 고려해서 제작하시면 되겠습니다.
-
-1. "지도위에 표시되는 정보와 동일한 형태의 목록"이 구글맵에 접근할 수 없는 시각장애인을 위한 대체 콘텐츠이죠? 이 대체 콘텐츠가 구글맵을 통해 제공하고자 하는 정보를 충분히 전달하고 있는지 점검하세요. 충분하지 않다면 접근성이 떨어진다고 판단하시면 됩니다.
-
-2. 구글맵 자체가 alt 속성이 선언되지 않은 img 요소, 구글맵 애플리케이션의 UI 구성 요소 등 시각장애인에게 접근 자체만으로도 혼란을 일으킬 수 있는 정보가 있다면 이를 마크업 상 구글맵이 등장하기 직전에 가이드와 구글맵을 건너뛸 수 있는 링크를 추가하세요. 가이드에는 구글맵이 접근성이 없으니 건너뛴 후 제공되는 대체 콘텐츠를 참고하라는 식의 내용을 포함하시는 것을 권장합니다
-
-+ 접근성
-http://nuli.navercorp.com/forum/post/87
-
-----
-
-구글맵 infowindow
+#### infowindow
 http://en.marnoto.com/2014/09/5-formas-de-personalizar-infowindow.html
 https://wordpress.org/support/topic/hiding-infowindows-on-the-map-solution
 http://codinglogs.blogspot.kr/2010/05/recipe-1-infowindow-close-upon-opening.html
 http://jsfiddle.net/Guffa/GSX6G/3/
+
+
+### Static Maps API
+
+앱과 사이트에서 지도를 이미지로 구현합니다.
+반응형 웹에서는 사용시 유동적으로 변하지 않아서 (?) 아직 사용은.
+https://developers.google.com/maps/documentation/static-maps/?hl=ko
+
+#### 기타 활용 케이스
+##### 지도의 마크를 클릭했을 때 해당 주소의 구글 지도 페이지로 이동하기
+```javascript
+google.maps.event.addListener(marker, 'click', function() {
+    location.href = "http://maps.google.com/maps?language=ko&z=5&q=" + encodeURI("서울특별시 구로구 구로동 222-14 에이스하이앤드타워2차");
+});
+```
+
+##### zoom 포인트에 따라 infowindow 값 출력
+```javascript
+var infowindow = new google.maps.InfoWindow({
+    content: 'Change the zoom level',
+    position: originalMapCenter
+});
+
+infowindow.open(map);
+
+map.addListener('zoom_changed', function() {
+    infowindow.setContent('Zoom: ' + map.getZoom());
+});
+```
+
+
+### 그외 지도 서비스 API
+- 네이버 지도 : https://navermaps.github.io/maps.js/docs/index.html
+- 다음 지도 : http://apis.map.daum.net/
+
+### 맺음말
+구글 지도 사용하는 법은 매번 정리하려고 했다가도 미루던 주제이다.
+구글, 네이버, 다음 이렇게 사용한 적이 있어서 케이스별로 정리해두면 좋을텐데...
+
+테스트 파일을 이곳에 : https://codepen.io/pigjh1/pen/YEPGem

@@ -16,21 +16,20 @@ tags: ['javascript', 'css']
 .a4 { page: a4sheet; page-break-after: always }
 ```
 
-
-### 원하는 영역(div)만 프린트하기
+### 원하는 영역만 인쇄하기
 `window.onbeforeprint`와 `window.onafterprint`로 인쇄 전과 후를 처리할수 있습니다.
 Chrome, Opera는 `window.matchMedia(‘print’)`로 이벤트 식별
 
 ```javascript
-//페이지 내에서 특정 영역만 프린트하기
+//페이지 내에서 특정 영역만 인쇄하기
 function divPrint(divID) {
     var initBody = document.body.innerHTML; //원래 있는 내용을 임시 저장
-    //onbeforeprint는 프린트 하기전 발생하는 이벤트
+    //onbeforeprint는 인쇄 하기전 발생하는 이벤트
     window.onbeforeprint = function(){
-        //프린트할 원하는 영역(div)을 본문에 넣고
+        //인쇄할 원하는 영역(div)을 본문에 넣고
         document.body.innerHTML = document.getElementById(divID).innerHTML;
     }
-    //프린트가 끝나고 발생하는 이벤트
+    //인쇄가 끝나고 발생하는 이벤트
     window.onafterprint = function(){
         //원래 내용으로 본문을 채운다.
         document.body.innerHTML = initBody;
@@ -38,6 +37,23 @@ function divPrint(divID) {
 
     window.print();
 }
+```
+
+### 원하는 영역을 윈도우 팝업으로 만들어 인쇄후 창 닫기
+```javascript
+$("#printBtn").click(function() {
+	var win = null;
+	var tmpHtml = "<html><head><style>body {font-family:Dotum, Arial; font-size: 12pt;}</style></head><body>	"
+					+  $("#printcont").html();
+					+ "</body></html>"
+	win = window.open();
+	self.focus();
+	win.document.open();
+	win.document.write(tmpHtml);
+	win.document.close();
+	win.print();
+	win.close();
+});
 ```
 
 ### iframe 이용하여 원하는 영역만 인쇄하기
@@ -66,6 +82,11 @@ $(document).ready(function() {
    });
 });
 ```
+
+### 맺음말
+인쇄 관련해서는 채용시스템을 구축하면서 고생을 많이 했습니다.
+입사지원 목록을 출력하는데 규격이 A4가 아니라고 해서 B4로 최적화 작업하는데 고생했던 기억이 납니다.
+고객사에서 사용하는 인쇄 장비까지 대여해서 엄청난 출력 테스트를 했던 기억이...
 
 ### Reference
 - [웹을 인쇄하기](https://mytory.net/archives/9796)

@@ -87,7 +87,7 @@ IE, 파이어폭스는 말줄임(…) 표시가 안됩니다.
 
 ### 테스트 소스 (codepen)
 관련 테스트 파일은 아래에서 확인할 수 있습니다.  
-[https://codepen.io/Diana-iropke/pen/GMZGqM?editors=1100](https://codepen.io/Diana-iropke/pen/GMZGqM?editors=1100)
+[https://codepen.io/pigjh1/pen/MOYeRb](https://codepen.io/pigjh1/pen/MOYeRb)
 
 ### Reference
 - [https://www.w3.org/TR/css-text-3/(https://www.w3.org/TR/css-text-3/)]
