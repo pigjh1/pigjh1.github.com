@@ -3,21 +3,18 @@ layout: compress
 ---
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
-
-  {% include head.html %}
-  <link href="https://fonts.googleapis.com/css?family=Noto+Sans|Noto+Serif" rel="stylesheet">
-
-  <body>
+{% include head.html %}
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans|Noto+Serif" rel="stylesheet">
+<body>
     <div id="shadow"></div>
 
-      {% include header.html %}
-      {% include aside.html %}
+    {% include header.html %} {% include aside.html %}
 
     <main class="content-wrapper">
-      {{ content }}
+        {{ content }}
     </main>
 
     {% include footer.html %}
 
-  </body>
+</body>
 </html>
