@@ -11,8 +11,8 @@ tags: ['javascript', 'jquery', 'jqueryui', 'calendar']
 작업한 코드의 일부는 [Codepen](https://codepen.io/pigjh1/pen/YEwaEG)에서 확인할 수 있습니다.
 (스타일도 넣고 스크립트도 보완하고 싶었지만...)
 
-<iframe height='500' scrolling='no' title='jQuery UI Datepicker' src='//codepen.io/pigjh1/embed/YEwaEG/?height=300&theme-id=28106&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/pigjh1/pen/YEwaEG/'>jQuery UI Datepicker</a> by pigjh1 (<a href='https://codepen.io/pigjh1'>@pigjh1</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+<p data-height="300" data-theme-id="28106" data-slug-hash="YEwaEG" data-default-tab="html,result" data-user="pigjh1" data-embed-version="2" data-pen-title="jQuery UI Datepicker" class="codepen">See the Pen <a href="https://codepen.io/pigjh1/pen/YEwaEG/">jQuery UI Datepicker</a> by pigjh1 (<a href="https://codepen.io/pigjh1">@pigjh1</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 ### 개발 환경
 - IE 크로스브라우징: IE9부터
