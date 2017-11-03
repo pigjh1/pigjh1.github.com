@@ -5,7 +5,7 @@ title: "html5.1 달라진점"
 date: 2017-06-09 10:56:00
 update: 2017-10-26 12:03:00
 categories: posts
-tags: ['html', 'W3C', 'spec']
+tags: ['html', 'w3c', 'spec']
 ---
 
 ### menu, menuitem 요소
