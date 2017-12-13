@@ -14,14 +14,14 @@ tags: ['html', 'accessibility']
 
 ### 웹 접근성 검사 도구
 - 크롬 익스텐션
-    - [OpenWAX](https://chrome.google.com/webstore/detail/openwax/bfahpbmaknaeohgdklfbobogpdngngoe?hl=kohttps://chrome.google.com/webstore/detail/openwax/bfahpbmaknaeohgdklfbobogpdngngoe?hl=ko) : 크롬 익스텐션
+    - [OpenWAX](https://chrome.google.com/webstore/detail/openwax/bfahpbmaknaeohgdklfbobogpdngngoe?hl=kohttps://chrome.google.com/webstore/detail/openwax/bfahpbmaknaeohgdklfbobogpdngngoe?hl=ko)
     - [N-WAX](https://chrome.google.com/webstore/detail/n-wax/jngfhfcfdliajpedjfnbefhckaoknclp) : 네이버에서 만듬 Open-WAX와 유사
     - [WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh?hl=ko)
 - 서비스형
-    - [비엑스](https://www.beaccessible.net/) : 1개 페이지만 무료 검사 가능. 명도 대비 체크하기 좋았음.
+    - [비엑스](https://www.beaccessible.net/) : 1개 페이지만 무료 검사 가능. 명도 대비 체크하기 좋았음
     - [한국웹접근성평가센터 자가진단 서비스 - 비엑스](https://www.beaccessible.net/dashboard/selfAnalyze) : 10개 페이지 검사 가능. 대체텍스트, 제목, 기본언어, 레이블 제공 항목을 검사. 오류 위치를 상세히 알려주어 좋음
-    - [웹 접근성 자가진단 서비스](https://accessibility.kr/nia/check.php) : 10개 페이지 검사 가능. 이미지, 제목, 언어, 레이블, 표 검사
-    - [wave](http://wave.webaim.org/) : 외국 검사 도구. 괜찮은 페이지당 검사하여 오류에 빨간 딱지
+    - [웹 접근성 자가진단 서비스](https://accessibility.kr/nia/check.php) : 10개 페이지 검사 가능. 이미지, 제목, 언어, 레이블, 표 검사 (아는 사람은 다 아는 신현석님이 만드셨습니다.)
+    - [wave](http://wave.webaim.org/) : 외국 검사 도구. 페이지당 검사하여 오류에 빨간 딱지
 - 설치형
     - [K-WAH 4](http://www.wah.or.kr/board/boardView.asp?page=1&brd_sn=2&brd_idx=1012) : 한국정보화진흥원에서 만들 프로그램 서비스 중단되어 공식적인 파일은 없음. 페이지 전체를 검사해서 마크업 닫기 오류 등 실수를 확인하기에 좋음
     - [Watch 1.0](http://www.webwatch.or.kr/solution/N05_01.html) : 다운받아봤는데 실행이 안됨.
@@ -40,7 +40,7 @@ tags: ['html', 'accessibility']
 #### 1. 색상에 의존하지 마십시오
 
 #### 2. 줌을 차단하지 마십시오
-반응형 웹 제작시 모바일 장치를 사용하여 웹 페이지를 확대할수 없게 최대 배율을 1로 고정하지 않는다.  
+반응형 웹 제작시 모바일 장치를 사용하여 웹 페이지를 확대할수 없게 최대 배율을 1로 고정하지 않는다.
 사용자가 휴대기기에서 자유롭게 확대/ 축소 할수 있도록 하고, 데스크톱에서도 확대되는지 확인 해야 한다.
 
 ```html
@@ -138,7 +138,7 @@ body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .vi
 #### 9. W3C 표준 과 WCAG 가이드 라인을 지킴
 
 #### 10. 검사도구 이용하여 테스트
-이 지식을 모두 적용했으면 테스트 할 시간입니다. 다음은 웹 사이트 접근성을 감사 할 수있는 최상의 도구 목록입니다.  
+이 지식을 모두 적용했으면 테스트 할 시간입니다. 다음은 웹 사이트 접근성을 감사 할 수있는 최상의 도구 목록입니다.
 위에서 소개한 국내에 맞는 도구를 사용
 
 - [ChromeVox](http://www.chromevox.com/) : Mac 및 Windows 사용자가 사용할 수있는이 Chrome 확장 프로그램은 웹 사이트를 테스트하는 데 사용할 수있는 스크린 리더입니다.
