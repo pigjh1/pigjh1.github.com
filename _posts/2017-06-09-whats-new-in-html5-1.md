@@ -33,5 +33,5 @@ HTML5.2에서 삭제되었다.
 - [What’s New in HTML 5.1](https://www.sitepoint.com/whats-new-in-html-5-1/)
 - [What’s new in HTML5.1?](http://www.capitalnumbers.com/blog/whats-new-in-html5-1/)
 - [What are the Differences between HTML5 and HTML 5.1?](http://www.lesliesikos.com/what-are-the-differences-between-html5-and-html-5-1/)
-- [HTML5.2에 추가된 기능과 변경된 것들](http://blog.gaerae.com/2017/12/html5-changes.html
+- [HTML5.2에 추가된 기능과 변경된 것들](http://blog.gaerae.com/2017/12/html5-changes.html)
 - [HTML5.2와 HTML5.1과의 차이점](https://hyeonseok.com/soojung/webstandards/2017/12/18/830.html)
