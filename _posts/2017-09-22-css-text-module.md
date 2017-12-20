@@ -50,7 +50,7 @@ tags: ['css', 'text']
 
 #### 단어별 줄바꿈 하는 다른 방법
 ##### 1. 단어 사이를 `<span>`으로 묶어서 스타일 제어
-정확히 단어별 줄바꿈이 되지만, 불필요한 마크업이 생기게 됩니다.  
+정확히 단어별 줄바꿈이 되지만, 불필요한 마크업이 생기게 됩니다.
 수동으로 할수도 있지만 공백을 판단해서 스크립트로 자동으로 묶을 수도 있겠지요.
 ```css
 .break-word sapn {display: inline-block;}
@@ -86,11 +86,11 @@ table td {word-break: break-all;}
 IE, 파이어폭스는 말줄임(…) 표시가 안됩니다.
 
 ### 테스트 소스 (codepen)
-관련 테스트 파일은 아래에서 확인할 수 있습니다.  
+관련 테스트 파일은 아래에서 확인할 수 있습니다.
 [https://codepen.io/pigjh1/pen/MOYeRb](https://codepen.io/pigjh1/pen/MOYeRb)
 
 ### Reference
-- [https://www.w3.org/TR/css-text-3/(https://www.w3.org/TR/css-text-3/)]
+- [https://www.w3.org/TR/css-text-3/](https://www.w3.org/TR/css-text-3/)
 - [언어별 CSS 줄 바꿈 설정 테스트](https://codepen.io/naradesign/pen/Evadoy)
 - [word-break 속성과 word-wrap 속성 알아보기](http://wit.nts-corp.com/2017/07/25/4675)
 - [Responsive multiline ellipsis SASS mixin](http://codepen.io/sergeysemashko/pen/jFGJD)

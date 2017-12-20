@@ -34,6 +34,10 @@ tags: ['html', 'accessibility']
     - [안드로이드의 TalkBack(토크백)](https://support.google.com/accessibility/android/answer/6283677?hl=ko)
     - [IOS의 VoiceOver](https://help.apple.com/voiceover/info/guide/10.12/?lang=ko)
 
+### 최근에 본 글 스크랩
+- [Web Content Accessibility Guidelines—for People Who Haven't Read Them](https://24ways.org/2017/wcag-for-people-who-havent-read-them)
+- [Stop Designing For Only 85% Of Users: Nailing Accessibility In Design](https://www.smashingmagazine.com/2017/10/nailing-accessibility-design/)
+
 ### 웹 접근성 향상을 위한 10가지 지침
 [aerolab](https://aerolab.co/blog/web-accessibility/)에 소개된 내용입니다.
 

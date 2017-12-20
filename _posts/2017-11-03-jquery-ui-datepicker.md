@@ -7,12 +7,9 @@ categories: posts
 tags: ['javascript', 'jquery', 'jqueryui', 'calendar']
 ---
 
-프로젝트에서 [jQuery UI Datepicker](https://jqueryui.com/datepicker/)를 사용하여 달력으로 표현한 예약 화면을 만들어 보았습니다.  
+프로젝트에서 [jQuery UI Datepicker](https://jqueryui.com/datepicker/)를 사용하여 달력으로 표현한 예약 화면을 만들어 보았습니다.
 작업한 코드의 일부는 [Codepen](https://codepen.io/pigjh1/pen/YEwaEG)에서 확인할 수 있습니다.
 (스타일도 넣고 스크립트도 보완하고 싶었지만...)
-
-<p data-height="300" data-theme-id="28106" data-slug-hash="YEwaEG" data-default-tab="html,result" data-user="pigjh1" data-embed-version="2" data-pen-title="jQuery UI Datepicker" class="codepen">See the Pen <a href="https://codepen.io/pigjh1/pen/YEwaEG/">jQuery UI Datepicker</a> by pigjh1 (<a href="https://codepen.io/pigjh1">@pigjh1</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 ### 개발 환경
 - IE 크로스브라우징: IE9부터
@@ -22,13 +19,13 @@ tags: ['javascript', 'jquery', 'jqueryui', 'calendar']
 
 
 ### 다른 플러그인을 선택한다면
-추가로 브라우저 지원이 IE10부터 되서 익숙한 jQuery UI를 사용했습니다.
+브라우저 지원이 IE10부터 되서 익숙한 jQuery UI를 사용했지만 다른 선택을 했었다면...
 - [MultiDatesPicker for jQuery UI](http://dubrox.github.io/Multiple-Dates-Picker-for-jQuery-UI/)
 - [Air Datepicker](http://t1m0n.name/air-datepicker/docs/)
 
 
 ### 접근성
-이전, 다음 버튼에 키보드 접근이 되지 않아서 수정된 js를 사용 했습니다.  
+이전, 다음 버튼에 키보드 접근이 되지 않아서 수정된 js를 사용했습니다.
 (Codepen에는 적용해두지 않았습니다)
 - [jquery.ui.datepicker_koreaWA.js](https://gist.github.com/dstyle0210/b29d7528bba27fdc75fe)
 
@@ -60,8 +57,8 @@ tags: ['javascript', 'jquery', 'jqueryui', 'calendar']
 
 
 ### 맺음말
-조건이 하나, 둘 붙으면서 소스도 복잡해지고 신경써야 할 부분이 많아서 한번 더 정리하는 개념으로 공들여 글을 작성해 보았습니다.  
-주차별 예약이 정말 어려웠습니다. 아하하하하.  
-나중에 스크립트를 보면 모를 것 같아서 주석도 잘 달아두었는데 글로 더 복잡하게 만드는것 같기도 합니다ㅠ  
-그 외도 예약 정보를 넣기 위해 [formvalidator](http://www.formvalidator.net/)를 붙였는데 여기서도 소소한 이슈가 있어 애를 먹었던 작업하기 힘든 화면이였습니다.  
+조건이 하나, 둘 붙으면서 소스도 복잡해지고 신경써야 할 부분이 많아서 한번 더 정리하는 개념으로 공들여 글을 작성해 보았습니다.
+주차별 예약이 정말 어려웠습니다. 아하하하하.
+나중에 스크립트를 보면 모를 것 같아서 주석도 잘 달아두었는데 글로 더 복잡하게 만드는것 같기도 합니다ㅠ
+그 외도 예약 정보를 넣기 위해 [formvalidator](http://www.formvalidator.net/)를 붙였는데 여기서도 소소한 이슈가 있어 애를 먹었던 작업하기 힘든 화면이였습니다.
 공부는 많이 되었습니다. 😚

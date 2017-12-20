@@ -1,18 +1,68 @@
-# css
+---
+bg: "tools.jpg"
+layout: post
+title: "CSS3 활용 다시보기"
+date: 2017-10-25 19:03:00
+categories: posts
+tags: ['css']
+---
 
-css3가 처음 나왔을 때 `transform`, `transition`, `animation` 은 브라우저 호환성 때문에 당장은 쓸일이 없어
-라고 대충 봤는데 지금은 많이 사용되고 있지만 정확한 속성과 원리(?)를 이해하지 못하고 쓰는 경향이 있어 정리해보고자 한다.
+
+CSS3가 처음 나왔을 때 `transform`, `transition`, `animation` 은 브라우저 호환성 때문에 당장은 쓸일이 없어
+라고 대충 봤는데 지금은 많이 사용되고 있지만 정확한 속성과 원리를 이해하지 못하고 쓰고 있어서 정리해보았다.
+
+### Transition (트랜지션)
+- 마우스오버와 같은 액션에 간단하고 효과가 변경되었을 때 부드럽게 처리
+- 객체가 기존에 가지고 있던 속성의 값이 다른 값으로 변할 때만 표현
+- 어떤 속성을 transition 할 것인지 지정하지 않으면 기본 값 all이 지정되어 모든 속성을 transition
+- 단축형으로 속성(property), 지속시간(duration), 타이밍(timing-function), 지연시간(delay)
+    ```scss
+    .classname {
+        transition: background-color 2s ease-out;
+        @include transition(all .8s ease-out);
+    }
+    ```
+- 브라우저 지원은 IE10부터
+- https://www.w3.org/TR/css-transitions-1/
+- https://css-tricks.com/almanac/properties/t/transition/
+- https://opentutorials.org/course/2418/13691
+
+
+### Transform (트랜스폼)
+- 객체의 크기, 위치, 모양을 변경하는 속성
+- matrix는 Transform이 가지고 있는 모든 함수를 한꺼번에 정의 : matrix(너비, 수직기울기, 수평기울기, 높이, 수평이동, 수직이동)
+- translate(이동), scale(크기), rotate(회전), skew(비틀기)
+- 기준점을 `transform-origin`으로 정의
+- 경계선 깨짐현상을 완화하기 위한 구문 넣기
+    ```css
+        .classname {
+            transform: rotate(45deg);
+            outline: 1px solid transparent;
+        }
+    ```
+- 3D Transformㅇ에서 Perspective(원근)
+- 2D Transform은 IE9부터 3D Transform은 IE10부터 지원
+- https://www.w3.org/TR/css-transforms-1/
+- https://css-tricks.com/almanac/properties/t/transform/
+- https://opentutorials.org/course/2418/13684
+- [Intro to CSS 3D transforms](http://desandro.github.io/3dtransforms/)
+
+### 애니메이션
+https://www.w3.org/TR/css-animations-1/
+
+
 
 ----
 
-- [CSS 애니메이션 성능 개선 방법(reflow 최소화, will-change 사용)](http://wit.nts-corp.com/2017/06/05/4571)
+- [웹 애니메이션 파헤치기](http://www.beautifulcss.com/archives/2231)
 - [(번역) CSS GPU 애니메이션 제대로 하기](http://wit.nts-corp.com/2017/08/31/4861)
-- Css 애니매이션 윌 체인지 https://dev.opera.com/articles/ko/css-will-change-property/
+- [CSS 애니메이션 성능 개선 방법(reflow 최소화, will-change 사용)](http://wit.nts-corp.com/2017/06/05/4571)
+- [CSS will-change 프로퍼티에 관해 알아둬야 할 것](https://dev.opera.com/articles/ko/css-will-change-property/)
 
 ----
 
-경계선 깨짐현상을 완화하기 위한 구문 넣기 스케일에서 outline
-http://www.beautifulcss.com/archives/2136
 
-확대 가운데에서 바텀으로 transform-origin 옵션
-https://stackoverflow.com/questions/12150377/css3-transform-scale-stick-to-bottom
+
+
+
++  필터, 블랜드 모드???

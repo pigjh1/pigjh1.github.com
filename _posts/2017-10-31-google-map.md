@@ -1,7 +1,7 @@
 ---
 bg: "tools.jpg"
 layout: post
-title: "웹페지에서 구글 맵 사용하기"
+title: "웹페이지에서 구글 맵 사용하기"
 date: 2017-10-31 14:20:00
 categories: posts
 tags: ['javascript', 'google']

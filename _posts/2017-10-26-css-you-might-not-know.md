@@ -18,18 +18,18 @@ https://css-tricks.com/clipping-masking-css/
 clip은 css2 clip-path는 css3로 현재는 ie지원이 안됨
 
 1. The Old/Deprecated clip
-http://www.psyonline.kr/1232032355
-https://developer.mozilla.org/ko/docs/Web/CSS/clip
-http://bennettfeely.com/clippy/
+- http://www.psyonline.kr/1232032355
+- https://developer.mozilla.org/ko/docs/Web/CSS/clip
+- http://bennettfeely.com/clippy/
 
 2. The New clip-path
-https://www.html5rocks.com/en/tutorials/masking/adobe/
+- https://www.html5rocks.com/en/tutorials/masking/adobe/
 
 ### Blend Modes
 브라우저 지원때문에 잘 사용하지 않던 스타일
 포토샵에 multiply 효과 등 지원하는 브라우저에서는 스타일을 보이도록 사용
-https://css-tricks.com/basics-css-blend-modes/
-Image Effects with CSS : http://bennettfeely.com/image-effects/
+- [Basics of CSS Blend Modes](https://css-tricks.com/basics-css-blend-modes/)
+- [Image Effects with CSS](http://bennettfeely.com/image-effects/)
 
 ---
 
@@ -52,7 +52,7 @@ input[type=image] {
 ```
 
 #### 텍스트 antialias
-- http://maxvoltar.com/archive/-webkit-font-smoothing
+http://maxvoltar.com/archive/-webkit-font-smoothing
 ```
 html { -webkit-font-smoothing: antialiased; }
 ```

@@ -1,7 +1,7 @@
 ---
 bg: "tools.jpg"
 layout: post
-title: "인쇄하기"
+title: "웹페이지 인쇄하기"
 date: 2017-10-26 14:20:00
 categories: posts
 tags: ['javascript', 'css']
@@ -42,17 +42,17 @@ function divPrint(divID) {
 ### 원하는 영역을 윈도우 팝업으로 만들어 인쇄후 창 닫기
 ```javascript
 $("#printBtn").click(function() {
-	var win = null;
-	var tmpHtml = "<html><head><style>body {font-family:Dotum, Arial; font-size: 12pt;}</style></head><body>	"
-					+  $("#printcont").html();
-					+ "</body></html>"
-	win = window.open();
-	self.focus();
-	win.document.open();
-	win.document.write(tmpHtml);
-	win.document.close();
-	win.print();
-	win.close();
+    var win = null;
+    var tmpHtml = "<html><head><style>body {font-family:Dotum, Arial; font-size: 12pt;}</style></head><body>    "
+                    +  $("#printcont").html();
+                    + "</body></html>"
+    win = window.open();
+    self.focus();
+    win.document.open();
+    win.document.write(tmpHtml);
+    win.document.close();
+    win.print();
+    win.close();
 });
 ```
 
@@ -86,7 +86,7 @@ $(document).ready(function() {
 ### 맺음말
 인쇄 관련해서는 채용시스템을 구축하면서 고생을 많이 했습니다.
 입사지원 목록을 출력하는데 규격이 A4가 아니라고 해서 B4로 최적화 작업하는데 고생했던 기억이 납니다.
-고객사에서 사용하는 인쇄 장비까지 대여해서 엄청난 출력 테스트를 했던 기억이...
+고객사에서 사용하는 인쇄 장비까지 대여해서 엄청난 출력 테스트를 했던 기억이 나는군요. (어색한 맺음말)
 
 ### Reference
 - [웹을 인쇄하기](https://mytory.net/archives/9796)
