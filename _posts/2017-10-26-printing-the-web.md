@@ -43,7 +43,7 @@ function divPrint(divID) {
 ```javascript
 $("#printBtn").click(function() {
     var win = null;
-    var tmpHtml = "<html><head><style>body {font-family:Dotum, Arial; font-size: 12pt;}</style></head><body>    "
+    var tmpHtml = "<html><head><style>body {font-family:Dotum, Arial; font-size: 12pt;}</style></head><body>"
                     +  $("#printcont").html();
                     + "</body></html>"
     win = window.open();

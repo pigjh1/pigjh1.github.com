@@ -4,11 +4,11 @@ layout: page
 permalink: /bookmarks/
 title: "Bookmarks"
 crawlertitle: "Bookmarks"
-summary: "bookmarks"
+summary: "북마크 모음"
 active: bookmarks
 ---
 
-# 미분류
+### 미분류
 - [ACO File Viewer](https://aco-viewer.appspot.com/)
 - [svg OPTIMIZATIONS](http://sketchmaster.com/svg-optimizer)
 - [Free SVG icons for popular brands](https://simpleicons.org/)
@@ -31,7 +31,7 @@ active: bookmarks
 - [Button Makernpm install -g pa11y](https://css-tricks.com/examples/ButtonMaker/)
 - [cssarrowplease](http://www.cssarrowplease.com/)
 - [Transforms](http://westciv.com/tools/3Dtransforms/index.html)
-- [Patternify | A CSS Pattern Generator](http://www.patternify.com/)
+- [Patternify-A CSS Pattern Generator](http://www.patternify.com/)
 - [CSS Houdini](http://lab.iamvdo.me/houdini/) : 최신 css 스펙 실험
 
 ### JavaScript
