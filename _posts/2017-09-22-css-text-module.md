@@ -4,7 +4,7 @@ layout: post
 title: "줄바꿈 처리와 말줄임 처리"
 date: 2017-09-22 19:26:00
 categories: posts
-tags: ['css', 'text']
+tags: ['css']
 ---
 
 ### 줄바꿈 처리

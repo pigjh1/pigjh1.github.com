@@ -105,3 +105,4 @@ if (Modernizr.flexboxlegacy) {
 - [The Ultimate Guide to Flexbox — Learning Through Examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
 - [A Simple Cheatsheet for Flexbox](https://codeburst.io/a-simple-cheatsheet-for-flexbox-f5d3e1658447)
 - [CSS Flexbox explained in 8 minutes, plus a Flexbox cheat sheet](https://medium.freecodecamp.org/css-flexbox-interactive-tutorial-in-8-minutes-including-cheat-sheet-6214e00de3d2)
+- [New flexbox guides on MDN](https://hacks.mozilla.org/2018/01/new-flexbox-guides-on-mdn/)

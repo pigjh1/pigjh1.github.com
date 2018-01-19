@@ -16,8 +16,12 @@ active: bookmarks
 - [ui 임프레스 모음](https://medium.muz.li/@usemuzli)
 - [es6, scss, node 등등. 내용이 막 깊히 있지는 않은데 예쁘게 정리해두었네요.](http://poiemaweb.com/)
 - [EntityCode](http://entitycode.com/)
-- [The Web Font Combinator](http://font-combinator.com/)
 - [EditorConfig](http://editorconfig.org/)
+- https://webcode.tools/
+
+### font
+- [The Web Font Combinator](http://font-combinator.com/)
+- [fontjoy](http://fontjoy.com/)
 
 ### CSS
 - [webgradients : 예쁜그라데이션](https://webgradients.com/)
@@ -33,6 +37,7 @@ active: bookmarks
 - [Transforms](http://westciv.com/tools/3Dtransforms/index.html)
 - [Patternify-A CSS Pattern Generator](http://www.patternify.com/)
 - [CSS Houdini](http://lab.iamvdo.me/houdini/) : 최신 css 스펙 실험
+- [CSS Reference type](http://cssreference.io/)
 
 ### JavaScript
 - http://javascript.info/
@@ -68,8 +73,14 @@ active: bookmarks
 - http://codeforamerica.clearleft.com/
 - http://getskeleton.com/
 
+### Online Code Editor
+- https://www.webpackbin.com/
+- https://codesandbox.io/
+
 ### 기술블로그
 - 레진 : http://tech.lezhin.com/
+- http://tech.kakao.com/
+- http://woowabros.github.io/
 
 ### UI Kit
 - 미국 웹 디자인 표준 UI 구성 요소: https://standards.usa.gov/
@@ -105,7 +116,5 @@ active: bookmarks
 - http://www.netmagazine.com/
 - http://designinstruct.com/
 - https://www.webpagefx.com/blog/web-design/
-- http://www.2expertsdesign.com/
 - https://webdesignledger.com/
-- http://www.webdesigndev.com/
-- http://bestblogbox.com/
+- [webdesigndev](http://www.webdesigndev.com/)
