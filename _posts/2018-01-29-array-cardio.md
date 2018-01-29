@@ -7,13 +7,14 @@ categories: posts
 tags: ['Javascript', 'es6']
 ---
 
-요즘 vue.js를 공부하는데 데이터 변수를 다룰때 배열을 많이 사용하는데 익숙하지 않는 메서드들이 더 어려운 것 같아 한번 정리를 해보았습니다.  
+요즘 vue.js를 공부하는데 데이터 변수를 다룰때 배열을 많이 사용하는데 익숙하지 않는 메서드들이 더 어려운 것 같아 한번 정리를 해보았습니다.
 es6를 학습할때 [javascript30](https://javascript30.com/)이 많은 도움이 되었는데 특히 배열 다루는 예제가 좋아서 다시 복습하는 의미로 정리!
 
 ### 메서드 정리
 [Array.prototype MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype)에 잘 정리되었습니다.
 
 #### 변경자 메서드 : 배열을 수정합니다.
+
 | 메서드 | 용도 |
 |-------|--------|
 | copyWithin() | 배열 내의 지정된 요소들을 동일한 배열 내에서 복사합니다. |
@@ -27,6 +28,7 @@ es6를 학습할때 [javascript30](https://javascript30.com/)이 많은 도움�
 | unshift() | 배열의 앞에 하나 이상의 요소를 추가하고 새로운 길이를 반환합니다. |
 
 #### 접근자 메서드 : 배열을 수정하지 않고 배열 일부를 반환합니다.
+
 | 메서드 | 용도 |
 |-------|--------|
 | concat() | 배열과, 인자로 주어진 배열/값을 결합해 새로운 배열을 만들고, 이 새 배열을 반환합니다. |
@@ -40,6 +42,7 @@ es6를 학습할때 [javascript30](https://javascript30.com/)이 많은 도움�
 | toLocaleString() | 배열과 요소를 나타내는 지역화된 문자열을 반환합니다. Object.prototype.toLocaleString() 메서드를 재정의합니다. |
 
 #### 반복 메서드
+
 | 메서드 | 용도 |
 |-------|--------|
 | entries() | 배열의 각 인덱스에 대한 키/값 쌍을 포함하는 새로운 배열 반복자 객체를 반환합니다. |
