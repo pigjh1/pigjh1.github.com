@@ -13,12 +13,6 @@ es6를 학습할때 [javascript30](https://javascript30.com/)이 많은 도움�
 ### 메서드 정리
 [Array.prototype MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype)에 잘 정리되었습니다.
 
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
-
 #### 변경자 메서드 : 배열을 수정합니다.
 | 메서드 | 용도 |
 |-------------------|----------|
