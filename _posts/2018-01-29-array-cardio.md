@@ -7,17 +7,11 @@ categories: posts
 tags: ['Javascript', 'es6']
 ---
 
-요즘 vue.js를 공부하는데 데이터 변수를 다룰때 배열을 많이 사용하는데 익숙하지 않는 메서드들이 더 어려운 것 같아 한번 정리를 해보았습니다.
+요즘 vue.js를 공부하는데 데이터 변수를 다룰때 배열을 많이 사용하는데 익숙하지 않는 메서드들이 더 어려운 것 같아 한번 정리를 해보았습니다.  
 es6를 학습할때 [javascript30](https://javascript30.com/)이 많은 도움이 되었는데 특히 배열 다루는 예제가 좋아서 다시 복습하는 의미로 정리!
 
 ### 메서드 정리
 [Array.prototype MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype)에 잘 정리되었습니다.
-
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
 
 #### 변경자 메서드 : 배열을 수정합니다.
 | 메서드 | 용도 |
