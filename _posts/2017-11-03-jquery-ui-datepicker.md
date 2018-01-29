@@ -3,6 +3,7 @@ bg: "tools.jpg"
 layout: post
 title: "달력으로 표현한 예약 UI 개발 후기"
 date: 2017-11-03 11:27:00
+update: 2018-01-24 12:50:00
 categories: posts
 tags: ['javascript', 'jquery', 'jqueryui', 'calendar']
 ---
@@ -52,8 +53,12 @@ tags: ['javascript', 'jquery', 'jqueryui', 'calendar']
 ### 배운점
 - [자바스크립트 Data 개체](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Date)를 많이 다뤄봄
 - data를 받아올 때 1,3,2을 콤마(,)로 split하게 되는데 그럼 문자형에서 숫자형으로 바뀌게 됨
-- 단위 테스트가 필요한 경우를 알게됨 (주로 화면을 구성하고 모션을 주는 작업을 하다보니 이런 사고를 하는 일이 적음)
+- ~~단위 테스트가 필요한 경우를 알게됨 (주로 화면을 구성하고 모션을 주는 작업을 하다보니 이런 사고를 하는 일이 적음)~~ 흔히 말하는 단위 테스트의 개념이 이게 아닌 듯 하다.
 - for문을 돌리는거나 배열을 다루는게 아직 부족한 듯 (아쉬움)
+
+### Vue.js로 리팩토링 하기
+jQuery UI Datepicker를 사용하기 싫어서 접근성, 크로스브라우징, 깔끔한 (컨벤션에 맞는) css 구성으로 리팩토링 중.
+(후기는 작업 완료 후 업데이트!)
 
 
 ### 맺음말

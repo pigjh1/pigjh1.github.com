@@ -67,11 +67,20 @@ active: bookmarks
 ### 동영상 압축
 - https://clipchamp.com/
 
-### 스타일가이드
+### 스타일 가이드
 - http://styleguides.io/examples.html
 - http://uspto.github.io/designpatterns/1.x/docs/foundation/typography.html
 - http://codeforamerica.clearleft.com/
 - http://getskeleton.com/
+
+### 프로젝트 가이드
+- http://frontendtest.com/checklist/
+- https://github.com/thedaviddias/Front-End-Checklist
+- https://frontendchecklist.io/
+- [Project Guidelines](https://github.com/wearehive/project-guidelines/blob/master/README-ko.md)
+
+### 개발 환경
+- [본격 macOS에 개발 환경 구축하기](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
 
 ### Online Code Editor
 - https://www.webpackbin.com/
