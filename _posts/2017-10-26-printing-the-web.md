@@ -17,8 +17,8 @@ tags: ['javascript', 'css']
 ```
 
 ### 원하는 영역만 인쇄하기
-`window.onbeforeprint`와 `window.onafterprint`로 인쇄 전과 후를 처리할수 있습니다.
-Chrome, Opera는 `window.matchMedia(‘print’)`로 이벤트 식별
+- `window.onbeforeprint`와 `window.onafterprint`로 인쇄 전과 후를 처리할수 있습니다.
+- Chrome, Opera는 `window.matchMedia(‘print’)`로 이벤트 식별
 
 ```javascript
 //페이지 내에서 특정 영역만 인쇄하기

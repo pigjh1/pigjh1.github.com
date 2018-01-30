@@ -8,7 +8,7 @@ tags: ['Javascript', 'es6']
 ---
 
 요즘 vue.js를 공부하는데 데이터 변수를 다룰때 배열을 많이 사용하는데 익숙하지 않는 메서드들이 더 어려운 것 같아 한번 정리를 해보았습니다.
-es6를 학습할때 [javascript30](https://javascript30.com/)이 많은 도움이 되었는데 특히 배열 다루는 예제가 좋아서 다시 복습하는 의미로 정리!
+es6를 학습할때 [javascript30](https://javascript30.com/)이 많은 도움이 되었는데 특히 배열 다루는 예제가 좋아서 다시 복습하는 의미로 보니 좋군요.
 
 ### 메서드 정리
 [Array.prototype MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype)에 잘 정리되었습니다.
@@ -60,7 +60,7 @@ es6를 학습할때 [javascript30](https://javascript30.com/)이 많은 도움�
 
 
 ### 생소한 매소드 사용 예제
-```JavaScript
+```javascript
 [1, 2, 3].includes(2); // true
 
 [12, 5, 8, 130, 44].filter(function (value) {
@@ -106,7 +106,7 @@ es6를 학습할때 [javascript30](https://javascript30.com/)이 많은 도움�
 Day4, Day7, Day12, Day17
 
 #### 0. 변수
-```JavaScript
+```javascript
 const inventors = [
   { first: 'Albert', last: 'Einstein', year: 1879, passed: 1955 },
   { first: 'Isaac', last: 'Newton', year: 1643, passed: 1727 },
@@ -126,25 +126,25 @@ const people = ['Blake, William', 'Beck, Glenn', 'Becker, Carl', 'Beckett, Samue
 
 #### 1. filter()
 inventors에서 1500 년대에 태어난 사람들을 필터링 하세요.
-```JavaScript
+```javascript
 inventors.filter(inventor => (inventor.year >= 1500 && inventor.year < 1600));
 ```
 
 #### 2. map()
 inventors에서 이름과 성을 합쳐서 보여주세요.
-```JavaScript
+```javascript
 inventors.map(inventor => `${inventor.first} ${inventor.last}`);
 ```
 
 #### 3. sort()
 inventors 생년월일별로 정렬해주세요.
-```JavaScript
+```javascript
 inventors.sort((a, b) => a.year > b.year ? 1 : -1 );
 ```
 
 #### 4. reduce()
 inventors가 살았던 년도의 총 합계를 구하세요.
-```JavaScript
+```javascript
 inventors.reduce((a, b) => {
     return a + (b.passed - b.year);
 }, 0);
@@ -152,13 +152,13 @@ inventors.reduce((a, b) => {
 
 #### 5. sort()
 inventors가 살았던 기간별 정렬해주세요.
-```JavaScript
+```javascript
 inventors.sort((a,b) => a.passed - a.year > b.passed - b.year ? 1 : -1);
 ```
 
 #### 6. map(), filter(), includes()
 [성당 목록](https://en.wikipedia.org/wiki/Category:Boulevards_in_Paris)에서 이름에 de가 들어있는 파리 대성당의 목록
-```JavaScript
+```javascript
 const category = document.querySelector('.mw-category');
 const links = Array.from(category.querySelectorAll('a'));
 const de = links
@@ -166,16 +166,15 @@ const de = links
         .filter(streetName => streetName.includes('de'));
 ```
 
-
 #### 7. sort()
 people을 last name 순서대로 정렬
-```JavaScript
+```javascript
 people.sort((a,b) => { return a > b ? 1 : -1; });
 ```
 
 #### 8. reduce()
 각 인스턴스의 합을 구합니다.
-```JavaScript
+```javascript
 ['car', 'car', 'truck', 'truck', 'bike', 'walk', 'car', 'van', 'bike', 'walk', 'car', 'van', 'car', 'truck' ].reduce(function(obj, i) {
   if (!obj[i]){
     obj[i] = 0;
@@ -186,7 +185,7 @@ people.sort((a,b) => { return a > b ? 1 : -1; });
 ```
 
 #### 9. some(), every()
-```JavaScript
+```javascript
 const people = [
     { name: 'Wes', year: 1988 },
     { name: 'Kait', year: 1986 },
@@ -201,7 +200,7 @@ people.every(arr => nowFullyear - arr.year >= 19);
 ```
 
 #### 10. find(), findIndex()
-```JavaScript
+```javascript
 const comments = [
     { text: 'Love this!', id: 523423 },
     { text: 'Super good', id: 823423 },
@@ -223,7 +222,7 @@ const newComments = [
 
 ### 11. push(), splice(), join(), includes()
 키보드를 눌러 비밀코드를 입력하면 메시지를 보여준다.
-```JavaScript
+```javascript
 const input = [];
 const secret = 'secret';
 

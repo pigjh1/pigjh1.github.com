@@ -12,7 +12,7 @@ tags: ['Project Setting']
 - http://tryhandlebarsjs.com/
 
 ### 참고자료
-- [[JavaScript] 예제로 확인하는 handlebars.js 사용 방법](http://programmingsummaries.tistory.com/381)
+- [예제로 확인하는 handlebars.js 사용 방법](http://programmingsummaries.tistory.com/381)
 - [Handlebar를 사용하여 배포까지 (+grunt +gradle)](http://jojoldu.tistory.com/23)
 - [웹 템플릿, 핸들바(Handlebars)로 더 심플하게!](http://tmondev.blog.me/220398995882)
 - [IE 7,8에서 모던하게 개발하기 #7 - Handlebars.js 적용](http://jojoldu.tistory.com/55)

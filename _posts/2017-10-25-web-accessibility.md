@@ -139,11 +139,12 @@ SVG에 대체텍스트는 `<title>`과 `<desc>` 태그를 사용한다.
 body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .visually-hidden button { display: none !important; }
 ```
 
-#### 9. W3C 표준 과 WCAG 가이드 라인을 지킴
+#### 9. W3C표준 과 WCAG 가이드 라인을 지킴
 
 #### 10. 검사도구 이용하여 테스트
-이 지식을 모두 적용했으면 테스트 할 시간입니다. 다음은 웹 사이트 접근성을 감사 할 수있는 최상의 도구 목록입니다.
-위에서 소개한 국내에 맞는 도구를 사용
+이 지식을 모두 적용했으면 테스트 할 시간입니다.
+다음은 웹 사이트 접근성을 감사 할 수있는 최상의 도구 목록입니다.
+위에서 소개한 국내에 맞는 도구를 사용해주세요.
 
 - [ChromeVox](http://www.chromevox.com/) : Mac 및 Windows 사용자가 사용할 수있는이 Chrome 확장 프로그램은 웹 사이트를 테스트하는 데 사용할 수있는 스크린 리더입니다.
 - [Chrome 용 접근성 개발자 도구](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en) : 일상적인 개발자 도구에 접근성 감사 옵션을 추가 한이 브라우저의 또 다른 멋진 확장 프로그램입니다.

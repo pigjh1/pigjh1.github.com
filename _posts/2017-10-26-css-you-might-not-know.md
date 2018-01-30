@@ -8,9 +8,9 @@ tags: ['css']
 ---
 
 ### shapes
-http://webplatform.adobe.com/shapes/
-https://tympanus.net/codrops/css_reference/shape-outside/
-http://alistapart.com/article/css-shapes-101
+- http://webplatform.adobe.com/shapes/
+- https://tympanus.net/codrops/css_reference/shape-outside/
+- http://alistapart.com/article/css-shapes-101
 
 ### CSS clip 과 clip-path
 https://css-tricks.com/clipping-masking-css/
