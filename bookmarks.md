@@ -58,16 +58,9 @@ active: bookmarks
 - [커밋가이드](http://conventionalcommits.org/)
 - [git tips의 한국어 버전 문서입니다](https://github.com/mingrammer/git-tips)
 
-### 이미지 압축
-- https://tinypng.com/
-- http://petercollingridge.appspot.com/svg-optimiser
-- https://www.coolutils.com/online/image-converter/
-- http://www.iloveimg.com/
-
-### 동영상 압축
-- https://clipchamp.com/
-
-### 스타일 가이드
+### 스타일 가이드 (UI Kit)
+- 미국 웹 디자인 표준 UI 구성 요소: https://standards.usa.gov/
+- UI Kit: https://getuikit.com/docs/core.html
 - http://styleguides.io/examples.html
 - http://uspto.github.io/designpatterns/1.x/docs/foundation/typography.html
 - http://codeforamerica.clearleft.com/
@@ -91,32 +84,14 @@ active: bookmarks
 - http://tech.kakao.com/
 - http://woowabros.github.io/
 
-### UI Kit
-- 미국 웹 디자인 표준 UI 구성 요소: https://standards.usa.gov/
-- UI Kit: https://getuikit.com/docs/core.html
-
 ### Accessibility
 - Techniques for WCAG 2.0: https://www.w3.org/TR/WCAG20-TECHS/
 - A11Y Style Guide : http://a11y-style-guide.com/style-guide/
 
-### 최신사이트 (국내)
-- 굿디자인웹 : http://www.gdweb.co.kr/
-- 아이디어노트 : http://www.ideanote.co.kr/
-- 신비디자인 : http://www.sinbd.com/index/hompy/
-- 디비컷 : https://www.dbcut.com/bbs/index.php
-
-### 최신사이트 (국외)
-- TheFWA : http://www.thefwa.com/
-- SF art & design portal : http://www.strangefruits.nl/
-- Dribbble - Show and tell for designers : https://dribbble.com/
-
-### 매거진 (국외, feedly 구독)
+### 매거진 (국외)
 - http://www.smashingmagazine.com/
 - http://css-tricks.com/
-- http://tympanus.net/codrops/
 - http://www.sitepoint.com/
-
-#### 디자인 관련 매거진?
 - https://www.webdesignerdepot.com/
 - http://designbeep.com/
 - http://designm.ag/
@@ -127,3 +102,33 @@ active: bookmarks
 - https://www.webpagefx.com/blog/web-design/
 - https://webdesignledger.com/
 - [webdesigndev](http://www.webdesigndev.com/)
+
+---
+
+### 이미지 압축
+- https://tinypng.com/
+- http://petercollingridge.appspot.com/svg-optimiser
+- https://www.coolutils.com/online/image-converter/
+- http://www.iloveimg.com/
+
+### 동영상 압축
+- https://clipchamp.com/
+
+---
+
+### 벤치마킹
+#### 코드
+- [freefrontend](http://freefrontend.com/)
+- [tympanus - codrops](http://tympanus.net/codrops/)
+
+#### 최신사이트 (국내)
+- [굿디자인웹](http://www.gdweb.co.kr/)
+- [아이디어노트](http://www.ideanote.co.kr/)
+- [신비디자인](http://www.sinbd.com/index/hompy/)
+- [디비컷](https://www.dbcut.com/bbs/index.php)
+
+#### 최신사이트 (국외)
+- [awwwards](https://www.awwwards.com/)
+- [TheFWA](http://www.thefwa.com/)
+- [SF art & design portal](http://www.strangefruits.nl/)
+- [Dribbble - Show and tell for designers](https://dribbble.com/)
