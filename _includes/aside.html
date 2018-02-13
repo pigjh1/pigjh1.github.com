@@ -7,10 +7,8 @@
 <div class="cover">
     <div class="cover-text">
         <div class="heading">
-            {% if page.tags %}
-                {% for tag in page.tags %}
-                    <a href="/posts/#{{ tag | downcase }}">{{ tag | downcase }}</a>
-                {% endfor %}
+            {% if page.categories == posts %}
+                Archive
             {% else %}
                 {{ page.title }}
             {% endif %}
