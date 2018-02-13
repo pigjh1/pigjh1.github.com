@@ -16,11 +16,12 @@ layout: default
     <div class="post-content">
         {{ content }}
 
-        <p class="post-tag">
+        <div class="post-tag">
+
             {% for tag in page.tags %}
                 <a href="/posts/#{{ tag | downcase }}">{{ tag | downcase }}</a>
             {% endfor %}
-        </p>
+        </div>
 
         {% if page.next.url %}
             <a class="link-to-post" href="{{ page.next.url }}">

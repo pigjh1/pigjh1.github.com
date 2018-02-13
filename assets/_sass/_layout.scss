@@ -250,8 +250,14 @@ article {
 }
 
 .post-tag {
+    margin: .5em;
     a, a:hover, a:focus, a:visited {
-        color: #333;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 10px;
+        padding: .3em 1em;
+        font-size: 80%;
+        background: #657b83;
     }
 }
 
