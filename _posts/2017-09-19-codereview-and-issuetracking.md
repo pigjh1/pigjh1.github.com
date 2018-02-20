@@ -4,7 +4,7 @@ layout: post
 title: "코드리뷰"
 date: 2017-09-19 14:20:00
 categories: posts
-tags: ['dev', 'project']
+tags: ['dev', 'project setting']
 ---
 
 ### Jira

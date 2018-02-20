@@ -4,7 +4,7 @@ layout: post
 title: "CSS 그리드로 오버레이 만들기"
 date: 2017-04-25 12:00:00
 categories: posts
-tags: ['css', 'grid', 'guide', 'dev']
+tags: ['css', 'grid', 'dev']
 ---
 
 ### CSS Grid Overlay가 왜 필요한가요?

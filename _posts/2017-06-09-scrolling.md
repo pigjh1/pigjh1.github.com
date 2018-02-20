@@ -4,7 +4,7 @@ layout: post
 title: "스크롤 페이지"
 date: 2017-06-09 11:26:00
 categories: posts
-tags: ['scrolling']
+tags: ['javascript', 'scrolling']
 ---
 
 최근 스크롤이 길거나 무한한(Infinite scrolling) 웹사이트가 점점 더 많아지고 있습니다.

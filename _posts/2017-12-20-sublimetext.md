@@ -4,7 +4,7 @@ layout: post
 title: "Sublime Text"
 date: 2017-12-20 12:00:00
 categories: posts
-tags: ['Project Setting']
+tags: ['project setting']
 ---
 
 ### 관련 URL

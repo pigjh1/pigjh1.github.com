@@ -5,7 +5,7 @@ title: "달력으로 표현한 예약 UI 개발 후기"
 date: 2017-11-03 11:27:00
 update: 2018-01-24 12:50:00
 categories: posts
-tags: ['javascript', 'jquery', 'jqueryui', 'calendar']
+tags: ['javascript']
 ---
 
 프로젝트에서 [jQuery UI Datepicker](https://jqueryui.com/datepicker/)를 사용하여 달력으로 표현한 예약 화면을 만들어 보았습니다.

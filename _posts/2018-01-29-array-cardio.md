@@ -4,7 +4,7 @@ layout: post
 title: "자바스크립트 배열 메서드"
 date: 2018-01-29 10:26:00
 categories: posts
-tags: ['Javascript', 'es6']
+tags: ['javascript']
 ---
 
 요즘 vue.js를 공부하는데 데이터 변수를 다룰때 배열을 많이 사용하는데 익숙하지 않는 메서드들이 더 어려운 것 같아 한번 정리를 해보았습니다.
