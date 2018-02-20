@@ -4,7 +4,7 @@ layout: post
 title: "CSS Flexbox"
 date: 2017-01-23 12:00:00
 categories: posts
-tags: ['css', 'flexbox']
+tags: ['css']
 ---
 
 ### 1. Flexbox는 무엇인가요?

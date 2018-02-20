@@ -4,7 +4,7 @@ layout: post
 title: "웹페이지에서 구글 맵 사용하기"
 date: 2017-10-31 14:20:00
 categories: posts
-tags: ['javascript', 'google', 'openapi']
+tags: ['javascript', 'google']
 ---
 
 구글 지도 사용하는 법은 매번 정리하려고 했다가도 미루던 주제라 한번 정리를 해보았습니다.
