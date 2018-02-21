@@ -16,9 +16,10 @@ active: bookmarks
 - [cssarrowplease](http://www.cssarrowplease.com/)
 
 #### Gradient
-- [WebGradients](https://webgradients.com/): 예쁜그라데이션
+- [WebGradients](https://webgradients.com/): 예쁜 그라데이션
 - [Gradient Buttons with Hover Effects](http://gradientbuttons.colorion.co/)
 - [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+- [GradPad](http://ourownthing.co.uk/gradpad.html): 그라데이션 만들기
 
 #### Pattern
 - [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/)
