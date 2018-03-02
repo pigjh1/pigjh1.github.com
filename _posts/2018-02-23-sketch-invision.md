@@ -34,10 +34,12 @@ tags: ['ui/ux', 'prototyping']
 - [Sketch 스케치 프로그램 50% 할인 받는 방법-학생 할인](http://27liter.tistory.com/65)
 - [코알못의 스케치 플러그인 개발 도전기 (1)-시작하기](http://slowalk.tistory.com/2449)
 - [스케치앱 집중 스터디 4일째-by도리스](http://rindesign.tistory.com/68)
+- [How to use sketch without a license key](http://couponhacks.org/use-sketch-without-license-key/)
+- [Freebie: “Dropcast” Website Template](https://tympanus.net/codrops/2018/02/23/freebie-dropcast-website-template-html-sketch/)
 
 #### Plugin
 - [제플린 Zepline](https://zeplin.io/) : 자동으로 스타일 가이드 및 리소스를 생성
-- [크래프트 Craft](https://www.invisionapp.com/craft) : 인비전에서 제공하는 플러그인
+- [크래프트 Craft](https://www.invisionapp.https://brunch.co.kr/@minwoo/1com/craft) : 인비전에서 제공하는 플러그인
 - [스케치툴박스 Sketchtoolbox](http://sketchtoolbox.com/) : 플러그인 쉽게 설치 및 삭제
 - [팔레트 Palette](https://github.com/andrewfiorillo/sketch-palettes) : 색상을 저장하고 불러오는 기능
 

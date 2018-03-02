@@ -33,6 +33,7 @@ active: bookmarks
 ### JavaScript
 - [The Modern JavaScript Tutorial](http://javascript.info/)
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+- [The JavaScript Learning Landscape in 2018](https://css-tricks.com/javascript-learning-landscape-2018/)
 
 ### font
 - [The Web Font Combinator](http://font-combinator.com/)

@@ -5,7 +5,7 @@ title: "underscore와 lodash"
 date: 2017-05-10 17:45:00
 update: 2018-02-21 12:26:00
 categories: posts
-tags: ['ui/ux', 'prototyping']
+tags: ['javascript']
 ---
 
 ### underscore
