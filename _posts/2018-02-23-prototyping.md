@@ -1,7 +1,7 @@
 ---
 bg: "tools.jpg"
 layout: post
-title: "스케치(Sketch)와 인비전(Invision)"
+title: "프로토타이핑"
 date: 2018-02-23 11:24:00
 categories: posts
 tags: ['ui/ux', 'prototyping']
@@ -21,6 +21,9 @@ tags: ['ui/ux', 'prototyping']
 #### Official
 - [스케치 앱 다운로드](https://www.sketchapp.com/)
 - [스케치 리소스](https://www.sketchappsources.com/)
+
+#### 리소스
+- [freebiesupply](https://freebiesupply.com/free-sketch-mockups/)
 
 #### 튜토리얼
 - [3일 만에 배우는 Sketch](http://www.edwith.org/cdc_sketch/joinLectures/8887) : 영상
@@ -54,3 +57,7 @@ tags: ['ui/ux', 'prototyping']
 - [프로토타입스쿨-인비전 기초 강의#01 인비전 회원가입과 둘러보기](https://vimeo.com/177360007) : 영상
 - [프로토타입스쿨-인비전 기초 강의#02 스크린과 핫스팟](https://vimeo.com/178281587) : 영상
 - [인비전 invision 제스처 및 트랜지션 정리](http://rindesign.tistory.com/74?category=641421)
+
+---
+### 그외 프로토타입 툴
+- [oven](https://ovenapp.io/) : 카카오에서 만듬
