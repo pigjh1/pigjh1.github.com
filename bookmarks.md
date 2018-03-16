@@ -20,6 +20,7 @@ active: bookmarks
 - [Gradient Buttons with Hover Effects](http://gradientbuttons.colorion.co/)
 - [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 - [GradPad](http://ourownthing.co.uk/gradpad.html): 그라데이션 만들기
+- [cssgradient](https://cssgradient.io/)
 
 #### Pattern
 - [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/)
@@ -90,6 +91,7 @@ active: bookmarks
 
 ### 미분류
 - [svg OPTIMIZATIONS](http://sketchmaster.com/svg-optimizer)
+- [svg coördinator](https://spotify.github.io/coordinator/)
 - [Free SVG icons for popular brands](https://simpleicons.org/)
 - [로딩 아이콘](https://loading.io/spinner/)
 - [EntityCode](http://entitycode.com/)
