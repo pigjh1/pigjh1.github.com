@@ -4,7 +4,7 @@ layout: post
 title: "프로토타이핑"
 date: 2018-02-23 11:24:00
 categories: posts
-tags: ['ui/ux', 'prototyping']
+tags: ['prototyping']
 ---
 
 #### 프로토타이핑 관련
@@ -42,7 +42,7 @@ tags: ['ui/ux', 'prototyping']
 
 #### Plugin
 - [제플린 Zepline](https://zeplin.io/) : 자동으로 스타일 가이드 및 리소스를 생성
-- [크래프트 Craft](https://www.invisionapp.https://brunch.co.kr/@minwoo/1com/craft) : 인비전에서 제공하는 플러그인
+- [크래프트 Craft](https://www.invisionapp.com/craft) : 인비전에서 제공하는 플러그인
 - [스케치툴박스 Sketchtoolbox](http://sketchtoolbox.com/) : 플러그인 쉽게 설치 및 삭제
 - [팔레트 Palette](https://github.com/andrewfiorillo/sketch-palettes) : 색상을 저장하고 불러오는 기능
 
@@ -59,6 +59,35 @@ tags: ['ui/ux', 'prototyping']
 - [인비전 invision 제스처 및 트랜지션 정리](http://rindesign.tistory.com/74?category=641421)
 
 ---
+
+### 프레이머(Framer)
+
+#### 공식
+- https://framer.com/download/thanks.html
+- [가이드](https://framer.com/getstarted/guides/)
+- [가이드 한글 번역](http://framerjs.co.kr/)
+- [examples](http://examples.framerjs.com/)
+- [Framer Code](http://framerco.de/): A collection of FramerJS modules, code examples, snippets and tips.
+
+#### 배우기
+- [Framer JS 한국사용자 그룹](https://www.facebook.com/groups/framerkorea/about/)
+- [사용 팁 공유](https://goo.gl/sYmS6u)
+- [framer 스터디 by.김세환](https://brunch.co.kr/magazine/framerjs30days)
+- [프레이머를 시작한 이유 by.슬슬](https://brunch.co.kr/@yeslee/16)
+
+
+#### 소개 포스팅
+- [프레이머(Framer) 소개 패스트캠퍼스](http://blog.fastcampus.co.kr/220870791550)
+- [프로토타이핑 with Framer.js—소개](https://brunch.co.kr/@minwoo/1)
+- [당신이 프레이머를 하지 않아도 될 이유](https://brunch.co.kr/@ultra0034/45)
+
+#### 책정보
+- [모바일 앱 프로토타이핑: Framer를 활용한 인터랙션 디자인](http://book.naver.com/bookdb/book_detail.nhn?bid=11802209)
+- [디자이너를 위한 프레이머: 코드를 몰라도 실무 예제를 중심으로 따라 하며 배우는](http://book.naver.com/bookdb/book_detail.nhn?bid=12670610)
+
+---
+
 ### 그외 프로토타입 툴
 - [oven](https://ovenapp.io/) : 카카오에서 만듬
 - [mockflow](https://mockflow.com/)
+
