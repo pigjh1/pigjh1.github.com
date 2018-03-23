@@ -21,6 +21,12 @@ active: bookmarks
 - [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 - [GradPad](http://ourownthing.co.uk/gradpad.html): 그라데이션 만들기
 - [cssgradient](https://cssgradient.io/)
+- [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+- [Webgradients](https://webgradients.com/)
+- [Grabient](https://www.grabient.com/)
+- [CoolHue](https://webkul.github.io/coolhue/)
+- [ColorSpace](https://mycolor.space/)
+- [Wave Gradient Generator](https://codepen.io/supah/pen/prVVOx)
 
 #### Pattern
 - [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/)

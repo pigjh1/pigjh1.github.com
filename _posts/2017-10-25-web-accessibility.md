@@ -37,6 +37,7 @@ tags: ['html', 'accessibility']
 ### 최근에 본 글 스크랩
 - [Web Content Accessibility Guidelines—for People Who Haven't Read Them](https://24ways.org/2017/wcag-for-people-who-havent-read-them)
 - [Stop Designing For Only 85% Of Users: Nailing Accessibility In Design](https://www.smashingmagazine.com/2017/10/nailing-accessibility-design/)
+- [Accessibility Guidelines](http://accessibility.voxmedia.com/) : voxmedia 접근성 체크리스트
 
 ### 웹 접근성 향상을 위한 10가지 지침
 [aerolab](https://aerolab.co/blog/web-accessibility/)에 소개된 내용입니다.
