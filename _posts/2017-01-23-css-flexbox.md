@@ -74,6 +74,11 @@ if (Modernizr.flexboxlegacy) {
 ```
 - [flexibility](https://github.com/jonathantneal/flexibility) : Flexible Box 사용가능하게 해주는 스트립트
 
+### 정렬할때 사용하는 속성 기억하기
+- 세로정렬 가로정렬할때 속성이 바로 생각이 안났는데 이 글이 도움이 되었다.
+- `justify-content`가 수평, `align-items`가 가로
+- [csstricks](https://css-tricks.com/a-quick-way-to-remember-difference-between-justify-content-align-items/)의 글을 참고하자!
+
 ### Playground
 - [Flexbox playground](http://codepen.io/enxaneta/pen/adLPwv)
 - [flexboxfroggy](http://flexboxfroggy.com/)

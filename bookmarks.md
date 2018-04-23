@@ -27,6 +27,7 @@ active: bookmarks
 - [CoolHue](https://webkul.github.io/coolhue/)
 - [ColorSpace](https://mycolor.space/)
 - [Wave Gradient Generator](https://codepen.io/supah/pen/prVVOx)
+- [Egg Shape Background Gradients](https://www.eggradients.com/)
 
 #### Pattern
 - [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/)
@@ -48,6 +49,7 @@ active: bookmarks
 - [wordmark](https://wordmark.it/)
 - [한글 웹폰트 글꼴보기집](http://youngkang.me/hangul-webfont-showcase/#/)
 - [한글 무료 서체만을 정리해둔 사이트 눈누](http://noonnu.cc/)
+- [googlefonts - korean](https://googlefonts.github.io/korean/)
 
 ---
 
@@ -63,6 +65,7 @@ active: bookmarks
 - http://frontendtest.com/checklist/
 - https://github.com/thedaviddias/Front-End-Checklist
 - https://frontendchecklist.io/
+- https://github.com/kesuskim/Front-End-Checklist
 - [Project Guidelines](https://github.com/wearehive/project-guidelines/blob/master/README-ko.md)
 
 ### Accessibility

@@ -71,7 +71,7 @@ es6를 학습할때 [javascript30](https://javascript30.com/)이 많은 도움�
 [1, 4, 9].map(function(num) {
     return num * 2;
 });
-// [1, 4, 9]
+// [2, 8, 18]
 
 [0, 1, 2, 3].reduce(function(a, b) {
     return a + b;

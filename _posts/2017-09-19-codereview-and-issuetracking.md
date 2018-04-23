@@ -8,12 +8,12 @@ tags: ['dev', 'project setting']
 ---
 
 ### Jira
-- [Jira를 통해 프로페셔널하게 프로젝트 협업하기] (http://uxd.team.handstudio.net/post/64286399069)
+- [Jira를 통해 프로페셔널하게 프로젝트 협업하기](http://uxd.team.handstudio.net/post/64286399069)
 
 ### 요나
 Git/SVN 저장소 기능이 내장된 설치형 이슈트래커 Yona가 네이버 랩스와 제록스(Xerox Research Center Europe, XRCE) 유럽 연구소의 회사 표준 이슈트래커로 선정되었습니다.
 - [DEMO](https://repo.yona.io/)
-- [github](https://github.com/yona-projects/yona): https://github.com/yona-projects/yona
+- [github](https://github.com/yona-projects/yona)
 - [[공개SW 활용 성공사례 230] 네이버 Yona Project - 21세기 협업개발플랫폼 ‘Yona’](http://www.oss.kr/index.php?mid=oss_repository10&document_srl=671642&category=401)
 
 ### Gerrit 코드리뷰
