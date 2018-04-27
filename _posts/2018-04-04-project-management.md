@@ -7,10 +7,10 @@ categories: posts
 tags: ['dev', 'project setting']
 ---
 
-## 관심키워드
+### 관심키워드
 애자일, 스프린트
 
-## 참고링크
+### 참고링크
 - [프로젝트 방법론, 이상과 현실사이(1) – 워터폴 vs 애자일](http://blog.rightbrain.co.kr/?p=5810)
 - [애자일이 무엇인가요?](https://brunch.co.kr/@insuk/5)
 - [애자일 12계명을 위한 개발자 설명서](http://www.venturesquare.net/745395)

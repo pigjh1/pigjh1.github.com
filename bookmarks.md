@@ -66,7 +66,15 @@ active: bookmarks
 - https://github.com/thedaviddias/Front-End-Checklist
 - https://frontendchecklist.io/
 - https://github.com/kesuskim/Front-End-Checklist
+- https://github.com/thedaviddias/Front-End-Design-Checklist
 - [Project Guidelines](https://github.com/wearehive/project-guidelines/blob/master/README-ko.md)
+- [Airbnb JavaScript 스타일 가이드](https://github.com/tipjs/javascript-style-guide)
+
+### Front-end
+- https://github.com/h5bp/Front-end-Developer-Interview-Questions
+- https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Korean
+- https://github.com/yangshun/front-end-interview-handbook
+- https://frontendmasters.com/books/front-end-handbook/2018/
 
 ### Accessibility
 - [Techniques for WCAG 2.0](https://www.w3.org/TR/WCAG20-TECHS/)
@@ -88,7 +96,6 @@ active: bookmarks
 - https://www.webpagefx.com/blog/web-design/
 - https://webdesignledger.com/
 - [webdesigndev](http://www.webdesigndev.com/)
-- [Dribbble - Show and tell for designers](https://dribbble.com/)
 
 ### 기술블로그 (국내)
 - [레진](http://tech.lezhin.com/)
@@ -147,15 +154,16 @@ active: bookmarks
 
 ---
 
-### 벤치마킹, 최신 트렌드
+### uiKit
 - [collectui](http://collectui.com/)
 - [ui-pattern](http://ui-patterns.com/patterns)
-- http://www.mobile-patterns.com/
+- [mobile-patterns](http://www.mobile-patterns.com/)
 
 #### UI 인터렉션
 - [ui 임프레스 모음](https://medium.muz.li/@usemuzli)
 - [uimovement](https://uimovement.com/)
 - [UYI](http://useyourinterface.com/)
+- [uplabs](https://www.uplabs.com/)
 
 #### 코드
 - [freefrontend](http://freefrontend.com/)
@@ -174,6 +182,8 @@ active: bookmarks
 - [SF art & design portal](http://www.strangefruits.nl/)
 - [CSS Drive](http://www.cssdrive.com/)
 - [siteinspire](https://www.siteinspire.com)
+- [behance](https://www.behance.net/): 어도비 크리에이티브 클라우드로 저작한 작품을 전시
+- [dribbble](https://dribbble.com/)
 
 #### 일본
 - [S5-Style](http://bm.s5-style.com/)
