@@ -97,3 +97,4 @@ IE, 파이어폭스는 말줄임(…) 표시가 안됩니다.
 - [CSS 말줄임 처리의 브라우저 호환성 문제](http://nuli.navercorp.com/sharing/blog/post/37677)
 - [CSS String Truncation with Ellipsis](http://mattsnider.com/css-string-truncation-with-ellipsis/)
 - [CSS3 text truncation and ellipses](http://sharonminsuk.com/blog/2010/07/22/css3-text-truncation-and-ellipses-even-in-firefox-and-without-the-styling-constraints/)
+- [Where Lines Break is Complicated. Here’s all the Related CSS and HTML.](https://css-tricks.com/where-lines-break-is-complicated-heres-all-the-related-css-and-html/)

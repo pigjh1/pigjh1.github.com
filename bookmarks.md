@@ -105,6 +105,23 @@ active: bookmarks
 
 ---
 
+### Lorem Ipsum
+
+### 한글 텍스트
+- http://guny.kr/stuff/klorem/
+- https://hangul.thefron.me/
+
+#### image
+- [PLACEHOLDER.COM](https://placeholder.com/)
+- [Lorem Picsum](https://picsum.photos/): 랜덤이미지
+- [LoremFlickr](https://loremflickr.com/)
+
+#### avatar
+- [UI Faces](https://uifaces.co/)
+- [unavatar](https://unavatar.now.sh/): 소셜 서비스 쿼리(?)로 사용자 아바타를 결정
+
+---
+
 ### 미분류
 - [svg OPTIMIZATIONS](http://sketchmaster.com/svg-optimizer)
 - [svg coördinator](https://spotify.github.io/coordinator/)
@@ -158,6 +175,7 @@ active: bookmarks
 - [collectui](http://collectui.com/)
 - [ui-pattern](http://ui-patterns.com/patterns)
 - [mobile-patterns](http://www.mobile-patterns.com/)
+- [uipatterns](http://uipatterns.io/currency-input)
 
 #### UI 인터렉션
 - [ui 임프레스 모음](https://medium.muz.li/@usemuzli)

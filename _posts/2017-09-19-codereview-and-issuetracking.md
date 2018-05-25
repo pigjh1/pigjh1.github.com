@@ -23,3 +23,4 @@ Git/SVN 저장소 기능이 내장된 설치형 이슈트래커 Yona가 네이�
 ### 코드리뷰 관련 글
 - [코드리뷰, GitHub로 바로 적용하기](https://academy.realm.io/kr/posts/codereview-howto/)
 - [코드리뷰 에티켓](https://css-tricks.com/code-review-etiquette/)
+- [코드 리뷰 가이드](http://www.haruair.com/blog/3116)
