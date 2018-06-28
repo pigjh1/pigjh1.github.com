@@ -20,6 +20,7 @@ active: bookmarks
 - [Gradient Buttons with Hover Effects](http://gradientbuttons.colorion.co/)
 - [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 - [GradPad](http://ourownthing.co.uk/gradpad.html): 그라데이션 만들기
+- [duotones](https://duotones.co/)
 - [cssgradient](https://cssgradient.io/)
 - [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 - [Webgradients](https://webgradients.com/)
@@ -42,6 +43,10 @@ active: bookmarks
 - [The Modern JavaScript Tutorial](http://javascript.info/)
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [The JavaScript Learning Landscape in 2018](https://css-tricks.com/javascript-learning-landscape-2018/)
+
+### Front-End
+- [Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
+- [The Front-End Tooling Survey 2018 - Results](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results)
 
 ### font
 - [The Web Font Combinator](http://font-combinator.com/)
@@ -119,6 +124,10 @@ active: bookmarks
 #### avatar
 - [UI Faces](https://uifaces.co/)
 - [unavatar](https://unavatar.now.sh/): 소셜 서비스 쿼리(?)로 사용자 아바타를 결정
+
+#### 무료이미지
+- [unsplash](https://unsplash.com/)
+- [pixabay](https://pixabay.com/ko/)
 
 ---
 
