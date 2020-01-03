@@ -1,7 +1,7 @@
 ---
 bg: "tools.jpg"
 layout: post
-title: "Sublime Text"
+title: "Editor - Sublime Text"
 date: 2017-12-20 12:00:00
 categories: posts
 tags: ['project setting']

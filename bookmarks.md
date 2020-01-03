@@ -68,22 +68,26 @@ active: bookmarks
 
 ### 프로젝트 가이드
 - http://frontendtest.com/checklist/
-- https://github.com/thedaviddias/Front-End-Checklist
-- https://frontendchecklist.io/
-- https://github.com/kesuskim/Front-End-Checklist
-- https://github.com/thedaviddias/Front-End-Design-Checklist
+- [Markup Coding Conventions (HTML/CSS Style Guide)](https://github.com/choi4450/markup-coding-conventions)
+- [The Front-End Checklist](https://frontendchecklist.io/)
+- [Front-End-Checklist](https://github.com/kesuskim/Front-End-Checklist)
+- [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [Project Guidelines](https://github.com/wearehive/project-guidelines/blob/master/README-ko.md)
 - [Airbnb JavaScript 스타일 가이드](https://github.com/tipjs/javascript-style-guide)
+- [레진 마크업 가이드](https://github.com/lezhin/markup-guide)
+
+### Accessibility
+- [레진 웹 접근성 가이드라인](https://github.com/lezhin/accessibility)
+- [레진 WAI-ARIA 가이드라인 소개](https://tech.lezhin.com/2018/04/20/wai-aria)
+- [구글 접근성](https://developers.google.com/web/fundamentals/accessibility/?hl=ko)
+- [Techniques for WCAG 2.0](https://www.w3.org/TR/WCAG20-TECHS/)
+- [A11Y Style Guide](http://a11y-style-guide.com/style-guide/)
 
 ### Front-end
 - https://github.com/h5bp/Front-end-Developer-Interview-Questions
 - https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Korean
 - https://github.com/yangshun/front-end-interview-handbook
 - https://frontendmasters.com/books/front-end-handbook/2018/
-
-### Accessibility
-- [Techniques for WCAG 2.0](https://www.w3.org/TR/WCAG20-TECHS/)
-- [A11Y Style Guide](http://a11y-style-guide.com/style-guide/)
 
 ---
 
@@ -129,11 +133,16 @@ active: bookmarks
 - [unsplash](https://unsplash.com/)
 - [pixabay](https://pixabay.com/ko/)
 
+#### SVG
+- [SVGOMG](https://jakearchibald.github.io/svgomg/)
+- [svg OPTIMIZATIONS](http://sketchmaster.com/svg-optimizer)
+- [svg coördinator](https://spotify.github.io/coordinator/)
+- [Method Draw](http://editor.method.ac/)
+- [ai to svg](https://image.online-convert.com/convert-to-svg)
+
 ---
 
 ### 미분류
-- [svg OPTIMIZATIONS](http://sketchmaster.com/svg-optimizer)
-- [svg coördinator](https://spotify.github.io/coordinator/)
 - [Free SVG icons for popular brands](https://simpleicons.org/)
 - [로딩 아이콘](https://loading.io/spinner/)
 - [EntityCode](http://entitycode.com/)
